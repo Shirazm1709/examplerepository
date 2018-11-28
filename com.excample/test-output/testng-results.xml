@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35820" started-at="2018-11-26T17:32:07Z" finished-at="2018-11-26T17:32:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35820" started-at="2018-11-26T17:32:07Z" finished-at="2018-11-26T17:32:42Z">
+      <class name="com.crm.qa.testdata.Loginpagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testdata.Loginpagetest@1afd44cb]" name="setup" is-config="true" duration-ms="10975" started-at="2018-11-26T17:32:07Z" finished-at="2018-11-26T17:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPagetittletest()[pri:1, instance:com.crm.qa.testdata.Loginpagetest@1afd44cb]" name="loginPagetittletest" duration-ms="4352" started-at="2018-11-26T17:32:18Z" finished-at="2018-11-26T17:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPagetittletest -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.crm.qa.testdata.Loginpagetest@1afd44cb]" name="loginTest" duration-ms="20241" started-at="2018-11-26T17:32:22Z" finished-at="2018-11-26T17:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.crm.qa.testdata.Loginpagetest@1afd44cb]" name="close" is-config="true" duration-ms="182" started-at="2018-11-26T17:32:42Z" finished-at="2018-11-26T17:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.crm.qa.testdata.Loginpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
